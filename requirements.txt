@@ -1,0 +1,11 @@
+streamlit 
+diffusers 
+transformers 
+better_profanity 
+accelerate 
+mediapy 
+triton 
+scipy 
+ftfy 
+spacy==3.4.4 
+xformers==0.0.16rc425
