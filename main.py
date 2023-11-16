@@ -73,7 +73,7 @@ def images(prompt, selected_scheduler):
 
 def main():
     
-    image_path = "/imagify.jpg"
+    image_path = "imagify.jpg"
     st.image(image_path, use_column_width=True)
     st.title("IMAGIFY")
     # Add text after heading
