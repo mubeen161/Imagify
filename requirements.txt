@@ -7,5 +7,6 @@ mediapy
 triton 
 scipy 
 ftfy 
+numpy==1.23.5
 spacy==3.4.4 
 xformers==0.0.16rc425
